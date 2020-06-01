@@ -34,7 +34,7 @@ The project includes the jupyternotebook where all the process has been develope
 
 ## Results
 
-The main findings of the code can be found at the post available (https://medium.com/@sergio.perezcarriche/analysis-of-airbnb-in-madrid-5c08e22186ce)[here].
+The main findings of the code can be found at the post available [here](https://medium.com/@sergio.perezcarriche/analysis-of-airbnb-in-madrid-5c08e22186ce) .
 
 ## Copyright and license
 
