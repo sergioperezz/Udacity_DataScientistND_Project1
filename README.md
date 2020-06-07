@@ -27,9 +27,9 @@ Machine Learning Libraries: NumPy, Pandas, Sciki-Learn
 
 ### User installation
 Clone the repository:
-'''
+```
 https://github.com/sergioperezz/Udacity_DataScientistND_Project1.git
-'''
+```
 ## Running the test
 Run the notebook
 
