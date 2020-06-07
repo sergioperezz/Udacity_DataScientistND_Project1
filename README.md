@@ -15,10 +15,10 @@ The goals of this project are:
 - 4 Create a blog post to share your questions and insights with a non-technical audience
 
 ## Content
-'''
+```
 - Analysis_Airbnb_Madrid.ipynb
 - README.md
-'''
+```
 
 ## Installation
 ### Dependencies
