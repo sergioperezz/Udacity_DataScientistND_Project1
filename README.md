@@ -6,35 +6,53 @@ This repository is the second part of the project 1 of the Data Science Nanodegr
 
 The goals of this project are:
 
-To follow the CRISP-DM process in finding your solutions.
+- 1 To follow the CRISP-DM process in finding your solutions.
 
-1) Pick a dataset.
+- 2 Prepare data: Gather necessary data to answer your questions, Handle categorical and missing data. Analyze, Model, and Visualize.
 
-2) Pose at least three questions related to business or real-world applications of how the data could be used.
+- 3 Communicate your business insights: Create a Github repository to share your code and data wrangling/modeling techniques.
 
-3) Create a Jupyter Notebook, using any associated packages you'd like, to:
+- 4 Create a blog post to share your questions and insights with a non-technical audience
 
-Prepare data:
+## Content
+```
+- Analysis_Airbnb_Madrid.ipynb
+- README.md
+```
 
-Gather necessary data to answer your questions
-Handle categorical and missing data
-Provide insight into the methods you chose and why you chose them
-Analyze, Model, and Visualize
+## Installation
+### Dependencies
+Python 3.5+
+Machine Learning Libraries: NumPy, Pandas, Sciki-Learn
 
-Provide a clear connection between your business questions and how the data answers them.
-4) Communicate your business insights:
-
-Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
-Create a blog post to share your questions and insights with a non-technical audience
-Your deliverables will be a Github repo and a blog post. Use the rubric here to assist in successfully completing this project!
-
-## File Descriptions
-
-The project includes the jupyternotebook where all the process has been developed. Markdown cells were used to assist in walking through the thought process for individual steps.
+### User installation
+Clone the repository:
+```
+https://github.com/sergioperezz/Udacity_DataScientistND_Project1.git
+```
+## Running the test
+Run the notebook
 
 ## Results
 
-The main findings of the code can be found at the post available here.
+The main results are:
+
+1) How to get good reviews?
+
+- Cleanliness, communication and the check in process seems the main factors that affect to have good reviews.
+
+2) How is the distribution of the Airbnb in Madrid per host and per room type?
+
+- 62.2% of the Airbnb apartments in Madrid are entire apartments, homes, or hotel rooms. In the other hand, almost 20% of the poeple have 2 or more Airbnb to rent, and 5 of them have more than 100 Apartments.
+
+3) Is there a trend in the reviews number?
+- The main point we can extract is that the growth in the Airbnb use is huge. Also, in terms of seasonality August and September seems to have the lowest number of ratings, which is probably translated in lower turist.
+
+
+An extended article can be found at the post available [here](https://medium.com/@sergio.perezcarriche/analysis-of-airbnb-in-madrid-5c08e22186ce) .
+
+## Authors
+[Sergio Pérez](https://github.com/sergioperezz)
 
 ## Copyright and license
 
